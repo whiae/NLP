@@ -1,0 +1,29 @@
+1. Legia Warszawa: 633
+2. Lech Poznań: 585
+3. Wisła Kraków: 517
+4. Jagiellonia Białystok: 475
+5. Śląsk Wrocław: 443
+6. Lechia Gdańsk: 443
+7. Korona Kielce: 395
+8. Ruch Chorzów: 362
+9. Cracovia: 354
+10. Zagłębie Lubin: 354
+11. Piast Gliwice: 350
+12. Górnik Zabrze: 347
+13. Pogoń Szczecin: 285
+14. GKS Bełchatów: 235
+15. Polonia Warszawa: 218
+16. Arka Gdynia: 186
+17. Podbeskidzie Bielsko-Biała: 175
+18. Widzew Łódź: 137
+19. Wisła Płock: 118
+20. Polonia Bytom: 99
+21. Górnik Łęczna: 95
+22. Zawisza Bydgoszcz: 71
+23. Bruk-Bet Termalica Nieciecza: 71
+24. Odra Wodzisław Śląski: 59
+25. ŁKS Łódź: 59
+26. Termalica Bruk-Bet Nieciecza: 33
+27. Miedź Legnica: 32
+28. Sandecja Nowy Sącz: 25
+29. Zagłębie Sosnowiec: 24

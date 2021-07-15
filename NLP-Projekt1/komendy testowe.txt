@@ -1,0 +1,5 @@
+﻿Czy mógłbyś otworzyć notatnik, proszę?
+prosze otwórz painta i jeśli byś mógł, to również worda
+teraz zamknij painta i worda
+czy mógłyś uruchomić www.google.pl?
+otwórz mi plik C:\temp\a.txt

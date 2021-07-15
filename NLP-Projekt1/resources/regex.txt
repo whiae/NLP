@@ -1,0 +1,5 @@
+﻿i oraz
+[Zz]amknij [Zz]ako[nń]cz [Zz]amkn[ąa][cć] [Zz]ako[nń]czy[cć]
+[Oo]tw[oó]rz [Uu]ruchom [Oo]tw[oó]rzy[cć] [Uu]ruchomi[cć]
+\S+:\\\S+ putty cmd sublime\stext wiersz\spolece(n|ń) internet\sexplorer word access accessa worda paint painta excel excela notepad notatnik firefox firefoxa chrome \S+www\.\S+ \S+http\S+ \S+\.pl \S+\.com filezilla filezille skype skajp skajpa przegl[ąa]darka przegl[aą]dark[eę] windows\smedia\splayer
+r'(?!(i oraz zamknij zako[nń]cz zamkn[ąa][cć] zako[nń]czy[cć] otw[oó]rz uruchom otw[oó]rzy[cć] uruchomi[cć])\b)\b(\S+)\b' #match everything except for the beggining words
